@@ -23,3 +23,14 @@ Linux Security Hardening Lab is a hands-on security assessment and hardening pro
 9.  Malware and rootkit Detection 
 10. System Updates and Patching 
 11. Final Security audit/validation
+
+##  Phase 1:Environment setup & Network Discovery
+### Objective 
+The objective of this phase is to understand the network configuration of the Ubuntu virtual machine before beginning the security asessment 
+### Commands used 
+ip a
+### Findings 
+It contained the network and loopback interface of assigned IPv4 ans IPv6 addresses 
+### Security Relevance
+Identifying network interfaces is important because it helps security analysts understand how a system communicates on a network and provides a foundation for further traffic analysis.
+
