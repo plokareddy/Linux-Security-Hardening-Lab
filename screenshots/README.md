@@ -34,11 +34,31 @@
 ### Configuration of UFW
 <img width="500" alt="Def plot deny incoming), allow (cutgoing), disabled (routed)" src="https://github.com/user-attachments/assets/69f5d4db-7fc6-43df-995c-648643a3039d" />
 
-## Phase 7: File Permission Review 
+## Phase 7: File Permission and User Review 
 ### File Permission and User Verification
 <img width="500" alt="rootx00rootrootbinbash" src="https://github.com/user-attachments/assets/abdadd83-6d22-439a-aec8-499de63bcd40" />
 
 ### Local User Account Review
 <img width="500" alt="Phase 1" src="https://github.com/user-attachments/assets/8f8168a9-2ee0-438e-94b1-a4800af93430" />
 
-## Phase 8: 
+## Phase 8: Service Review & Hardening
+### Review of running services 
+<img width="500" alt="nose systent listents typeservice" src="https://github.com/user-attachments/assets/0694bbc2-9ccb-4563-8979-56a3892064cf" />
+
+## Phase 9: Malware and rootkit detection
+### Rkhunter execution and scan results 
+<img width="500" alt="not found" src="https://github.com/user-attachments/assets/945c3f30-3d42-4059-9996-512c84e12074" />
+
+<img width="500" alt="HARNING Possible Linux BPFDoor Malware installed" src="https://github.com/user-attachments/assets/fba62139-d062-4db2-9528-d828ff471c36" />
+
+### Process and network verificaton
+<img width="500" alt="Phase 2" src="https://github.com/user-attachments/assets/8ef34ce3-b8c5-4e7a-96f4-fc7b8560da39" />
+
+## Phase 10: System updates and Patching
+### Updating package and verification 
+<img width="500" alt="Phase 2" src="https://github.com/user-attachments/assets/020a14b4-b91d-48bc-be13-018a277d0fbd" />
+
+## Phase 11: Final Security Audit & verification 
+### Security Audit results 
+<img width="500" alt="Phase 2" src="https://github.com/user-attachments/assets/7306d9f3-e174-47ef-abe7-6f0017713d69" />
+
