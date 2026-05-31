@@ -32,5 +32,5 @@ ip a
 ### Findings 
 It contained the network and loopback interface of assigned IPv4 ans IPv6 addresses 
 ### Security Relevance
-Identifying network interfaces is important because it helps security analysts understand how a system communicates on a network and provides a foundation for further traffic analysis.
+Identifying network interfaces is important because it helps security analysts understand how a system communicates on a network and provides a foundation for further traffic analysis. 
 
