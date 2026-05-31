@@ -4,14 +4,14 @@ The project Linux-Security-Hardening-lab is a hands-on security assessment and h
 ## Tools Used
 Ubuntu Linux,Wireshark,Nmap,Lynis,UFW,Rkhunter
 ## Project phases 
-1.Environment setup & Network Discovery
-2.Traffic Analysis 
-3.Security Auditing with Lynis tool 
-4.Vulnerability Assessment
-5.Authentication Log Review 
-6.Firewall Hardening 
-7.File Permission reviewing 
-8.Service Hardening 
-9.Malware and rootkit Detection 
-10.System updates/patches 
-11.Final Security audit/validation
+1.  Environment setup & Network Discovery
+2.  Traffic Analysis 
+3.  Security Auditing with Lynis tool 
+4.  Vulnerability Assessment
+5.  Authentication Log Review 
+6.  Firewall Hardening 
+7.  File Permission reviewing 
+8.  Service Hardening 
+9.  Malware and rootkit Detection 
+10. System updates/patches 
+11. Final Security audit/validation
