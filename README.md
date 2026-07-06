@@ -1,7 +1,7 @@
 # Linux Security Hardening Lab
 
 ## Project Overview
-Linux Security Hardening Lab is a hands-on security assessment and hardening project performed on an Ubuntu virtual machine running on macOS. The project covers network discovery, traffic analysis, security auditing, vulnerability assessment, firewall hardening, malware detection, and final security validation. The goal was to evaluate the system's security posture, identify vulnerabilities, implement security controls, and validate security improvements.
+Linux Security Hardening Lab is a hands-on security assessment and hardening project performed on an Ubuntu virtual machine running on macOS. The project covers Network Discovery, Traffic Analysis, Security Auditing, Vulnerability Assessment, Firewall Hardening, Malware Detection, and final Security Validation. The goal was to evaluate the system's security posture, identify vulnerabilities, implement security controls, and validate security improvements.
 
 ## Tools Used
 - Ubuntu Linux
